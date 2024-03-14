@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0; 
+}
+canvas {
+  display: block;
+}
+.btn{
+  width:100%;
+}
+#corpo{
+  background-image: url(Relogio.png);
+  background-repeat:no-repeat;
+  background-position:center ;
+  background-size: cover;
+}
